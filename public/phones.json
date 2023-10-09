@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Conferences and Seminars",
+    "image": "conference-image.jpg",
+    "price": "$500",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "id": 2,
+    "title": "Trade Shows and Expos",
+    "image": "tradeshow-image.jpg",
+    "price": "$600",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "id": 3,
+    "title": "Team Building Workshops",
+    "image": "teambuilding-image.jpg",
+    "price": "$400",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "id": 4,
+    "title": "Product Launches",
+    "image": "productlaunch-image.jpg",
+    "price": "$700",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "id": 5,
+    "title": "Corporate Meetings",
+    "image": "corporatemeeting-image.jpg",
+    "price": "$550",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "id": 6,
+    "title": "Award Ceremonies",
+    "image": "awardceremony-image.jpg",
+    "price": "$800",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  }
+]
