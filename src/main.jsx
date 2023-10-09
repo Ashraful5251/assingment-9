@@ -7,7 +7,8 @@ import Root from "./components/Root";
 import Home from "./components/Home";
 import Login from "./components/Login";
 import Register from "./components/Register";
-import about from "./components/about/about";
+import About from "./components/about/About";
+import Contact from "./components/contact us/Contact";
 
 const router = createBrowserRouter([
   {
@@ -28,7 +29,11 @@ const router = createBrowserRouter([
       },
       {
         path: "/about",
-        element: <about></about>,
+        element: <About></About>,
+      },
+      {
+        path: "/Contact",
+        element: <Contact></Contact>,
       },
     ],
   },
