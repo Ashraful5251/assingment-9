@@ -1,0 +1,62 @@
+[
+  {
+    "image": "https://i.ibb.co/JR37phj/affair-1238434-1280.jpg",
+    "price": 29.99,
+    "title": "Conferences and Seminars",
+    "description": "Conferences and Seminars offer opportunities for networking and knowledge exchange on industry-specific topics.",
+    "button": {
+      "text": "Make Purchase",
+      "link": "https://example.com/buy/product1"
+    }
+  },
+  {
+    "image": "https://i.ibb.co/PQGNSty/27644.jpg",
+    "price": 49.99,
+    "title": "Trade Shows and Expos",
+    "description": "Trade Shows and Expos provide platforms for businesses to showcase products and services to a wide audience.",
+    "button": {
+      "text": "Make Purchase",
+      "link": "https://example.com/buy/product2"
+    }
+  },
+  {
+    "image": "https://i.ibb.co/0mPfLg8/meeting-1453895-1920.png",
+    "price": 79.99,
+    "title": "Team Building Workshops",
+    "description": "Team Building Workshops foster collaboration and improve team dynamics through interactive activities and exercises.",
+    "button": {
+      "text": "Make Purchase",
+      "link": "https://example.com/cart/product3"
+    }
+  },
+  {
+    "image": "https://i.ibb.co/4t7vXPZ/rocket-6111769-1280.png",
+    "price": 39.99,
+    "title": "Product Launches",
+    "description": "Product Launches introduce new offerings to the market and generate excitement among potential customers and stakeholders.",
+    "button": {
+      "text": "Make Purchase",
+      "link": "https://example.com/details/product4"
+    }
+  },
+  {
+    "image": "https://i.ibb.co/6sNGxVh/meeting-5395615-1920.jpg",
+    "price": 99.99,
+    "title": "Corporate Meetings",
+    "description": "Corporate Meetings facilitate essential discussions, decision-making, and information sharing among company stakeholders.",
+    "button": {
+      "text": "Make Purchase",
+      "link": "https://example.com/buy/product5"
+    }
+  },
+  {
+    "image": "https://i.ibb.co/BV22TH4/winner-6868098-1920.png",
+    "price": 59.99,
+    "title": "Award Ceremonies",
+    "description": "Award Ceremonies celebrate and recognize outstanding achievements and contributions within an organization or industry.",
+    "button": {
+      "text": "Make Purchase",
+      "link": "https://example.com/purchase/product6"
+    }
+  }
+]
