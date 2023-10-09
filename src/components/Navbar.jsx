@@ -30,7 +30,7 @@ const Navbar = () => {
 
       <div className="navbar-center">
         <a className="btn btn-ghost normal-case text-xl">
-          Corporate Event Pros
+          Corporate Events Hub
         </a>
       </div>
 

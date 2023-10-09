@@ -28,9 +28,9 @@ const Login = () => {
         <div className="text-center lg:text-left">
           <h1 className="text-5xl font-bold">Login now!</h1>
           <p className="py-6">
-            Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda
-            excepturi exercitationem quasi. In deleniti eaque aut repudiandae et
-            a id nisi.
+            "Unlock a world of corporate event possibilities – sign in to access
+            tailored event solutions that will elevate your business gatherings
+            to new heights of success
           </p>
         </div>
         <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
@@ -58,13 +58,14 @@ const Login = () => {
                 className="input input-bordered"
                 required
               />
-              <label className="label">
-                <a href="#" className="label-text-alt link link-hover">
-                  Forgot password?
-                </a>
-              </label>
-              <div>
-                New user? <Link to={"/Register"}>Sign Up</Link>
+              <label className="label"></label>
+              <div className="text-sm">
+                New user?{" "}
+                <span>
+                  <Link to="/Register" className="font-bold hover:underline">
+                    Sign Up
+                  </Link>
+                </span>
               </div>
             </div>
             <div className="form-control mt-6">
