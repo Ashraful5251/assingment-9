@@ -1,38 +1,38 @@
 [
   {
     "picture": "https://example.com/product1.jpg",
-    "title": "Product 1",
-    "description": "This is the description for Product 1.",
+    "title": "Conferences and Seminars",
+    "description": "Conferences and Seminars offer opportunities for networking and knowledge exchange on industry-specific topics..",
     "price": 29.99,
     "button": {
-      "text": "Buy Now",
+      "text": "View Details",
       "link": "https://example.com/buy/product1"
     }
   },
   {
     "picture": "https://example.com/product2.jpg",
-    "title": "Product 2",
-    "description": "Product 2 is a great choice for your needs.",
+    "title": " Trade Shows and Expos",
+    "description": "Trade Shows and Expos provide platforms for businesses to showcase products and services to a wide audience.",
     "price": 49.99,
     "button": {
-      "text": "Order Now",
+      "text": "View Details",
       "link": "https://example.com/buy/product2"
     }
   },
   {
     "picture": "https://example.com/product3.jpg",
-    "title": "Product 3",
-    "description": "Product 3 - The ultimate solution for you.",
+    "title": "Team Building Workshops",
+    "description": "Team Building Workshops foster collaboration and improve team dynamics through interactive activities and exercises.",
     "price": 79.99,
     "button": {
-      "text": "Add to Cart",
+      "text": "View Details",
       "link": "https://example.com/cart/product3"
     }
   },
   {
     "picture": "https://example.com/product4.jpg",
-    "title": "Product 4",
-    "description": "A versatile product that suits your needs.",
+    "title": "Product Launches",
+    "description": "Product Launches introduce new offerings to the market and generate excitement among potential customers and stakeholders.",
     "price": 39.99,
     "button": {
       "text": "View Details",
@@ -41,21 +41,21 @@
   },
   {
     "picture": "https://example.com/product5.jpg",
-    "title": "Product 5",
-    "description": "Discover the amazing features of Product 5.",
+    "title": "Corporate Meetings",
+    "description": "Corporate Meetings facilitate essential discussions, decision-making, and information sharing among company stakeholders.",
     "price": 99.99,
     "button": {
-      "text": "Buy Now",
+      "text": "View Details",
       "link": "https://example.com/buy/product5"
     }
   },
   {
     "picture": "https://example.com/product6.jpg",
-    "title": "Product 6",
-    "description": "Product 6 - Your trusted companion.",
+    "title": "Award Ceremonies,",
+    "description": "Award Ceremonies celebrate and recognize outstanding achievements and contributions within an organization or industry.",
     "price": 59.99,
     "button": {
-      "text": "Purchase",
+      "text": "View Details",
       "link": "https://example.com/purchase/product6"
     }
   }
